@@ -3,7 +3,7 @@ If you like dogs?  This module shows you random pictures of dogs.
 
 #Examples:
 
-Recipe
+ 
 ![](examples/1.png)
 
 ![](examples/2.png)
